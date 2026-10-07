@@ -586,4 +586,9 @@ THEMES["custom"] = Theme(
 
 ## License
 
-MIT License - see LICENSE file for details.
+AGPL-3.0 License - see LICENSE file for details.
+
+This project is open source under the GNU Affero General Public License version 3.0, which allows free use and modification while preventing proprietary commercial repackaging.
+
+[Mistral CLI] Copyright (C) [2026] [Hex]
+This program comes with ABSOLUTELY NO WARRANTY
