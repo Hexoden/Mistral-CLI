@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="docs/banner.svg" alt="Mistral CLI Purple Banner" />
+  <img src="docs/bannerTop.svg" alt="Mistral CLI Purple Banner" />
+</p>
+<p align="center">
+  <img src="docs/bannerBottom.svg" alt="Mistral CLI Purple Banner" />
 </p>
 
 <p align="center">
