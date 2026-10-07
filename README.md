@@ -1,4 +1,4 @@
-```
+<pre style="color: #A100FF; text-align: center; font-family: monospace; white-space: pre-wrap; line-height: 1.2; margin: 0;">
  /$$      /$$ /$$             /$$                        /$$
 | $$$    /$$$|__/            | $$                       | $$
 | $$$$  /$$$$ /$$  /$$$$$$$ /$$$$$$    /$$$$$$  /$$$$$$ | $$
@@ -8,8 +8,6 @@
 | $$ \/  | $$| $$ /$$$$$$$/  |  $$$$/| $$     |  $$$$$$$| $$
 |__/     |__/|__/|_______/    \___/  |__/      \_______/|__/
 
-
-
   /$$$$$$  /$$       /$$$$$$       /$$$$$$$$                  /$$
  /$$__  $$| $$      |_  $$_/      |__  $$__/                 | $$
 | $$  \__/| $$        | $$           | $$  /$$$$$$   /$$$$$$ | $$
@@ -18,6 +16,8 @@
 | $$    $$| $$        | $$           | $$| $$  | $$| $$  | $$| $$
 |  $$$$$$/| $$$$$$$$ /$$$$$$         | $$|  $$$$$$/|  $$$$$$/| $$
  \______/ |________/|______/         |__/ \______/  \______/ |__/
+</pre>
+<pre style="color: #00FF88; text-align: center; font-family: monospace; white-space: pre-wrap; line-height: 1.2; margin: 0;">
 
 ░█▄█░█▀█░█▀▄░█▀▀░░░█░█░▀█▀░▀█▀░█░█░░░█░░░█▀█░█░█░█▀▀░░░░
 ░█░█░█▀█░█░█░█▀▀░░░█▄█░░█░░░█░░█▀█░░░█░░░█░█░▀▄▀░█▀▀░░░░
@@ -29,8 +29,7 @@
 ░▀▄▀░░░░░█░░░░░█/█░░░░█/█
 ░░▀░░▀░░▀▀▀░▀░░░▀░░▀░░░▀░
 [No official affiliation with Mistral ai]
-```
-
+</pre>
 <p align="centre">
   <img src="https://cdn.simpleicons.org/mistralai/A100FF" width="50" alt="Git" style="margin: 5px">
   <img src="https://cdn.simpleicons.org/Python/00ff88" width="50" alt="Python" style="margin: 5px">
