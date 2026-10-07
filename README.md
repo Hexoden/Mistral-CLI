@@ -36,23 +36,31 @@ A command-line interface for Mistral AI, making it easy to interact with Mistral
 
 ## Features
 
-| **Chat Interface** | **File Processing** |
-|---|---|
-| Interactive and single-prompt modes | Process text files with Mistral, with interactive file browser support |
-| **Multi-model Support** | **Model Context** |
-| Use any Mistral model from the API | Automatically provides model identity to the AI in each request |
-| **Personalization** | **Interactive Model Selector** |
-| Set your name with `mistral config --name` | Choose model from menu when starting chat |
-| **Chat Commands** | **Path Commands** |
-| Special commands like /help, /models, /switch, /theme, /config, /typing, /dance | Find mistral executable with `mistral which`, `mistral where`, or `mistral locate` |
-| **Typing Speed Control** | **Configuration Management** |
-| Configurable typing animation speeds with separate controls | Save API keys and settings |
-| **Streaming** | **Rich Output** |
-| Get responses token by token | Beautiful terminal output with Rich |
-| **🎨 Theme System** | **🌈 Gradient Colors** |
-| Customizable appearance with ASCII banners | Left-to-right color gradients on banners |
-| **⌨️ Typing Effect** | **🦜 Fun Animations** |
-| Animated banner and AI responses with configurable speed | Dancing parrot animation with /dance command |
+<table>
+<tr><th><b>Chat Interface</b></th><th><b>File Processing</b></th></tr>
+<tr><td>Interactive and single-prompt modes</td><td>Process text files with Mistral, with interactive file browser support</td></tr>
+
+<tr><th><b>Multi-model Support</b></th><th><b>Model Context</b></th></tr>
+<tr><td>Use any Mistral model from the API</td><td>Automatically provides model identity to the AI in each request</td></tr>
+
+<tr><th><b>Personalization</b></th><th><b>Interactive Model Selector</b></th></tr>
+<tr><td>Set your name with <code>mistral config --name</code></td><td>Choose model from menu when starting chat</td></tr>
+
+<tr><th><b>Chat Commands</b></th><th><b>Path Commands</b></th></tr>
+<tr><td>Special commands like /help, /models, /switch, /theme, /config, /typing, /dance</td><td>Find mistral executable with <code>mistral which</code>, <code>mistral where</code>, or <code>mistral locate</code></td></tr>
+
+<tr><th><b>Typing Speed Control</b></th><th><b>Configuration Management</b></th></tr>
+<tr><td>Configurable typing animation speeds with separate controls</td><td>Save API keys and settings</td></tr>
+
+<tr><th><b>Streaming</b></th><th><b>Rich Output</b></th></tr>
+<tr><td>Get responses token by token</td><td>Beautiful terminal output with Rich</td></tr>
+
+<tr><th><b>🎨 Theme System</b></th><th><b>🌈 Gradient Colors</b></th></tr>
+<tr><td>Customizable appearance with ASCII banners</td><td>Left-to-right color gradients on banners</td></tr>
+
+<tr><th><b>⌨️ Typing Effect</b></th><th><b>🦜 Fun Animations</b></th></tr>
+<tr><td>Animated banner and AI responses with configurable speed</td><td>Dancing parrot animation with /dance command</td></tr>
+</table>
 
 ## Installation
 
