@@ -31,6 +31,13 @@
 [No official affiliation with Mistral ai]
 ```
 
+<p align="centre">
+  <img src="https://cdn.simpleicons.org/mistralai/A100FF" width="50" alt="Git" style="margin: 5px">
+  <img src="https://cdn.simpleicons.org/Python/00ff88" width="50" alt="Python" style="margin: 5px">
+  <img src="https://cdn.simpleicons.org/git/A100FF" width="50" alt="Git" style="margin: 5px;">
+  <img src="https://cdn.simpleicons.org/github/00ff88" width="50" alt="GitHub" style="margin: 5px">
+</p>
+
 # Mistral CLI
 
 A command-line interface for Mistral AI, making it easy to interact with Mistral's language models from your terminal. Features a **customizable theme system** with ASCII banners and gradient colors.
