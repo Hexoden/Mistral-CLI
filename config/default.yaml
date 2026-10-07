@@ -1,0 +1,21 @@
+# Default Mistral CLI configuration
+# This file can be copied to ~/.mistral-cli/config.yaml
+
+# Mistral API Key (required)
+# Get your API key from: https://console.mistral.ai/
+# api_key: your_api_key_here
+
+# Default model to use
+default_model: mistral-tiny
+
+# Sampling temperature (0.0 to 1.0)
+temperature: 0.7
+
+# Maximum tokens to generate (null for no limit)
+max_tokens: null
+
+# Whether to stream responses by default
+stream: false
+
+# User name for AI conversations (optional)
+# name: Your Name
