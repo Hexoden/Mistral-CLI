@@ -1,4 +1,4 @@
-<pre style="color: #A100FF; text-align: center; font-family: monospace; white-space: pre-wrap; line-height: 1.2; margin: 0;">
+<pre style="color: magenta; text-align: center; font-family: monospace; white-space: pre-wrap; line-height: 1.2; margin: 0;">
  /$$      /$$ /$$             /$$                        /$$
 | $$$    /$$$|__/            | $$                       | $$
 | $$$$  /$$$$ /$$  /$$$$$$$ /$$$$$$    /$$$$$$  /$$$$$$ | $$
@@ -17,7 +17,7 @@
 |  $$$$$$/| $$$$$$$$ /$$$$$$         | $$|  $$$$$$/|  $$$$$$/| $$
  \______/ |________/|______/         |__/ \______/  \______/ |__/
 </pre>
-<pre style="color: #00FF88; text-align: center; font-family: monospace; white-space: pre-wrap; line-height: 1.2; margin: 0;">
+<pre style="color: aquamarine; text-align: center; font-family: monospace; white-space: pre-wrap; line-height: 1.2; margin: 0;">
 
 ░█▄█░█▀█░█▀▄░█▀▀░░░█░█░▀█▀░▀█▀░█░█░░░█░░░█▀█░█░█░█▀▀░░░░
 ░█░█░█▀█░█░█░█▀▀░░░█▄█░░█░░░█░░█▀█░░░█░░░█░█░▀▄▀░█▀▀░░░░
