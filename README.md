@@ -28,6 +28,7 @@
 ░█░█░░░░▀█░░░░░▄▀▄░░░░▄▀▄
 ░▀▄▀░░░░░█░░░░░█/█░░░░█/█
 ░░▀░░▀░░▀▀▀░▀░░░▀░░▀░░░▀░
+[No official affiliation with Mistral ai]
 ```
 
 # Mistral CLI
