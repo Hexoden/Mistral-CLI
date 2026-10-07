@@ -57,7 +57,7 @@ A command-line interface for Mistral AI, making it easy to interact with Mistral
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/mistral-cli.git
+git clone https://github.com/Hexoden/mistral-cli.git
 cd mistral-cli
 
 # 2. Create virtual environment
@@ -89,7 +89,7 @@ python -m src.main
 
 ```cmd
 :: 1. Clone the repository
-git clone https://github.com/yourusername/mistral-cli.git
+git clone https://github.com/Hexoden/mistral-cli.git
 cd mistral-cli
 
 :: 2. Create virtual environment
