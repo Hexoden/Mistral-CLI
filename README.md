@@ -36,22 +36,23 @@ A command-line interface for Mistral AI, making it easy to interact with Mistral
 
 ## Features
 
-- **Chat Interface**: Interactive and single-prompt modes
-- **File Processing**: Process text files with Mistral, with interactive file browser support
-- **Multi-model Support**: Use any Mistral model from the API
-- **Model Context**: Automatically provides model identity to the AI in each request
-- **Personalization**: Set your name with `mistral config --name` to have the AI address you personally
-- **Interactive Model Selector**: Choose model from menu when starting chat
-- **Chat Commands**: Special commands like /help, /models, /switch, /theme, /config, /typing, /dance
-- **Path Commands**: Find mistral executable with `mistral which`, `mistral where`, or `mistral locate`
-- **Typing Speed Control**: Configurable typing animation speeds with separate controls for CLI commands and interactive chat
-- **Configuration Management**: Save API keys and settings
-- **Streaming**: Get responses token by token
-- **Rich Output**: Beautiful terminal output with Rich
-- **🎨 Theme System**: Customizable appearance with ASCII banners
-- **🌈 Gradient Colors**: Left-to-right color gradients on banners
-- **⌨️ Typing Effect**: Animated banner and AI responses with configurable speed
-- **🦜 Fun Animations**: Dancing parrot animation with /dance command
+| **Chat Interface** | **File Processing** |
+|---|---|
+| Interactive and single-prompt modes | Process text files with Mistral, with interactive file browser support |
+| **Multi-model Support** | **Model Context** |
+| Use any Mistral model from the API | Automatically provides model identity to the AI in each request |
+| **Personalization** | **Interactive Model Selector** |
+| Set your name with `mistral config --name` | Choose model from menu when starting chat |
+| **Chat Commands** | **Path Commands** |
+| Special commands like /help, /models, /switch, /theme, /config, /typing, /dance | Find mistral executable with `mistral which`, `mistral where`, or `mistral locate` |
+| **Typing Speed Control** | **Configuration Management** |
+| Configurable typing animation speeds with separate controls | Save API keys and settings |
+| **Streaming** | **Rich Output** |
+| Get responses token by token | Beautiful terminal output with Rich |
+| **🎨 Theme System** | **🌈 Gradient Colors** |
+| Customizable appearance with ASCII banners | Left-to-right color gradients on banners |
+| **⌨️ Typing Effect** | **🦜 Fun Animations** |
+| Animated banner and AI responses with configurable speed | Dancing parrot animation with /dance command |
 
 ## Installation
 
