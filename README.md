@@ -1,36 +1,8 @@
-<pre style="color: magenta; text-align: center; font-family: monospace; white-space: pre-wrap; line-height: 1.2; margin: 0;">
- /$$      /$$ /$$             /$$                        /$$
-| $$$    /$$$|__/            | $$                       | $$
-| $$$$  /$$$$ /$$  /$$$$$$$ /$$$$$$    /$$$$$$  /$$$$$$ | $$
-| $$ $$/$$ $$| $$ /$$_____/|_  $$_/   /$$__  $$|____  $$| $$
-| $$  $$$| $$| $$|  $$$$$$   | $$    | $$  \__/ /$$$$$$$| $$
-| $$\  $ | $$| $$ \____  $$  | $$ /$$| $$      /$$__  $$| $$
-| $$ \/  | $$| $$ /$$$$$$$/  |  $$$$/| $$     |  $$$$$$$| $$
-|__/     |__/|__/|_______/    \___/  |__/      \_______/|__/
+<p align="center">
+  <img src="docs/banner.svg" alt="Mistral CLI Purple Banner" />
+</p>
 
-  /$$$$$$  /$$       /$$$$$$       /$$$$$$$$                  /$$
- /$$__  $$| $$      |_  $$_/      |__  $$__/                 | $$
-| $$  \__/| $$        | $$           | $$  /$$$$$$   /$$$$$$ | $$
-| $$      | $$        | $$           | $$ /$$__  $$ /$$__  $$| $$
-| $$      | $$        | $$           | $$| $$  \ $$| $$  \ $$| $$
-| $$    $$| $$        | $$           | $$| $$  | $$| $$  | $$| $$
-|  $$$$$$/| $$$$$$$$ /$$$$$$         | $$|  $$$$$$/|  $$$$$$/| $$
- \______/ |________/|______/         |__/ \______/  \______/ |__/
-</pre>
-<pre style="color: aquamarine; text-align: center; font-family: monospace; white-space: pre-wrap; line-height: 1.2; margin: 0;">
-
-░█▄█░█▀█░█▀▄░█▀▀░░░█░█░▀█▀░▀█▀░█░█░░░█░░░█▀█░█░█░█▀▀░░░░
-░█░█░█▀█░█░█░█▀▀░░░█▄█░░█░░░█░░█▀█░░░█░░░█░█░▀▄▀░█▀▀░░░░
-░▀░▀░▀░▀░▀▀░░▀▀▀░░░▀░▀░▀▀▀░░▀░░▀░▀░░░▀▀▀░▀▀▀░░▀░░▀▀▀░▄▀░
-░█▀▄░█░█░░░█░█░█▀▀░█░█
-░█▀▄░░█░░░░█▀█░█▀▀░▄▀▄
-░▀▀░░░▀░░░░▀░▀░▀▀▀░▀░▀
-░█░█░░░░▀█░░░░░▄▀▄░░░░▄▀▄
-░▀▄▀░░░░░█░░░░░█/█░░░░█/█
-░░▀░░▀░░▀▀▀░▀░░░▀░░▀░░░▀░
-[No official affiliation with Mistral ai]
-</pre>
-<p align="centre">
+<p align="center">
   <img src="https://cdn.simpleicons.org/mistralai/A100FF" width="50" alt="Git" style="margin: 5px">
   <img src="https://cdn.simpleicons.org/Python/00ff88" width="50" alt="Python" style="margin: 5px">
   <img src="https://cdn.simpleicons.org/git/A100FF" width="50" alt="Git" style="margin: 5px;">
@@ -596,5 +568,8 @@ AGPL-3.0 License - see LICENSE file for details.
 
 This project is open source under the GNU Affero General Public License version 3.0, which allows free use and modification while preventing proprietary commercial repackaging.
 
-[Mistral CLI] Copyright (C) [2026] [Hex]
+[Made with love by Hex]
+
+[No official affiliation with Mistral AI]
+
 This program comes with ABSOLUTELY NO WARRANTY
